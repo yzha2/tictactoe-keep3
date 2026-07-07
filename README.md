@@ -25,12 +25,6 @@ git clone https://github.com/yzha2/tictactoe-keep3.git
 cd tictactoe-keep3
 ```
 
-Create and activate a virtual environment (optional but recommended):
-
-```bash
-python -m venv .venv
-```
-
 Install the required package:
 
 ```bash
