@@ -7,8 +7,7 @@ Instead of accumulating pieces throughout the game, each player may only keep **
 ## Features
 
 - Classic two-player Tic-Tac-Toe gameplay with "Keep Three" game mechanic
-- Click inside an empty grid to place a piece
-- Before placing the fourth piece, the earliest piece changes to a lighter color as indication
+- The oldest piece is highlighted to indicate it will disappear next
 
 ## Controls
 
